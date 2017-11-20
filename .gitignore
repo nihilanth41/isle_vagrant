@@ -1,0 +1,5 @@
+*.swp
+*.swo
+.vagrant
+data
+debug.log
